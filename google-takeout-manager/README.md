@@ -1,6 +1,6 @@
 # Google Takeout Manager
 
-Complete toolkit for downloading, extracting, and organizing your Google Takeout data.
+Complete toolkit for downloading, extracting, and organizing your Google Takeout data. Suppose you have total 91 files to download from Google takeout.
 
 ## 🎯 What This Does
 
