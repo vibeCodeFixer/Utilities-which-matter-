@@ -23,8 +23,7 @@ except ImportError:
     exit(1)
 
 # Configuration
-ARCHIVE_ID = "6dba9630-cc98-4507-aa5f-6376563d25c0"
-USER_ID = "113508548453534889343"
+ARCHIVE_ID = "6dba9630-cc98-4507-aa5f-6376563d25c0" """ provide ur aerchice id here"""
 TOTAL_PARTS = 91
 DOWNLOAD_DIR = os.path.abspath("google_takeout_downloads")
 MANAGE_URL = f"https://takeout.google.com/manage/archive/{ARCHIVE_ID}"
